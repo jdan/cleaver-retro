@@ -14,6 +14,10 @@ pre code {
   font-size: 140%;
 }
 
+.slide {
+  background-color: inherit;
+}
+
 .keyword {
   color: #0086b3 !important;
   font-weight: inherit !important;
